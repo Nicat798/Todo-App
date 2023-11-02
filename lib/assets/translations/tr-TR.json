@@ -1,0 +1,10 @@
+{
+    "title" : "Bugün neler yapacaksın?",
+    "empty_task_list_text" : "Görev Eklemek İçin + İkonuna Dokun",
+    "add_task" : "Görev Nedir?",
+    "empty_textfield_exception_text" : "Lütfen en az 5 Karakter Yazınız",
+    "empty_search_list" : "Aradığınız Sonuç Bulunamadı",
+    "search_text" : "Ara"
+
+
+}

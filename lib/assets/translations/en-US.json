@@ -1,0 +1,10 @@
+{
+    "title" : "What will you do today?",
+    "empty_task_list_text" : "Press + Icon For Add a Task",
+    "add_task" : "What is task",
+    "empty_textfield_exception_text" : "Please enter at least 5 characters",
+    "empty_search_list" : "We can't find your search",
+    "search_text" : "Search"
+
+
+}
